@@ -1,0 +1,32 @@
+.menu-container{
+  height: 120vh;
+}
+
+.menu-burgers{
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+.menu-burgers h1{
+  color: #d9463a;
+  font-size: 48px;
+  margin-bottom: 40px;
+}
+
+.menu-burger{
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  background-color: #ffeae5;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #4c4c4c;
+  text-align: left;
+}
+
+.burger-text p{
+  font-size: 18px;
+  color: #4c4c4c;
+}
