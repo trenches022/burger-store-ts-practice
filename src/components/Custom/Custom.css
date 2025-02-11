@@ -96,3 +96,10 @@ p {
 .reset-btn:hover {
   background-color: #b93830;
 }
+
+.promo-input{
+  border: none;
+  padding: 15px 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
